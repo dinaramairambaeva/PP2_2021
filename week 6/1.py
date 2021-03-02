@@ -1,0 +1,1 @@
+print(max(list(int (i) for i in input().split())))
